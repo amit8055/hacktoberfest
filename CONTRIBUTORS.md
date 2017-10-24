@@ -16613,6 +16613,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Web Developer and Programmer
 - Github: [17robots](https://github.com/17robots)
 
+#### Name: [Amit Sharma](https://github.com/amit8055)
+-Place: Jaipur,INDIA
+-Bio: computer science @ LNMIIT,Jaipur
+-Github:[amit8055](https://github.com/amit8055)
+
 #### Name: [Enrique Arce](https://github.com/enriquearce)
 - Place: México
 - Bio: Developer
